@@ -12,7 +12,7 @@ I am confident in my data analytics skills and that my experience, attitude and 
 For details on each of the project please review the linked documents
 
 **Projects:** <br>
-* [HollywoodsMostProfitableStories](README.md)
+* [HollywoodsMostProfitableStories](holly/readme.md)
 * [AAA](A/Readme.md)
 
 ## Project: AAA
