@@ -5,11 +5,9 @@ I am practised in **Python, R, SQL,my SQL,Tableau, AZure,Power Bi**
 
 <img src="pythonlogo.png" alt="drawing" width="20%"/><img src="R.png" alt="drawing" width="20%"/><img src="tableau.png" alt="drawing" width="20%"/><img src="power bi.jpg" alt="drawing" width="10%"/><img src="sqllogo.png" alt="drawing" width="10%"/>
 
-Python Logo R Logo
+I have experience in designing and creating dashboards in main industry sects, reported to clients and help company make business decision.
 
-I have experience in designing and creating dashboards, …..
-
-I am confident in my data analytics skills and that my experience, attitude and communication skills would make me an ideal candidate for a junior data analyst role.
+I am confident in my data analytics skills and that my experience, attitude and communication skills would make me an ideal candidate for a data analyst role.
 
 For details on each of the project please review the linked documents
 
