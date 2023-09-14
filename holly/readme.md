@@ -8,10 +8,8 @@ df<- read.csv("https://public.tableau.com/app/sample-data/HollywoodsMostProfitab
 View(df)
 
 ```
-then imported into the power bi to analyze it 
-![the rortten.tomatoes per genre](../holly/hollyMap1.JPG)
-<img src="../holly/hollyMap1.JPG" >
-<img src="../holly/hollyMap1.JPG" alt="drawing" width="20%"/>
+then imported into the **power bi** to analyze it 
+<img src="../holly/hollyMap1.JPG" alt="drawing" width="50%"/>
 
 If you are interested reviewing and testing the project please use my Google CoLab notebook
 
