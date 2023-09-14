@@ -15,7 +15,7 @@ For details on each of the project please review the linked documents
 * [HollywoodsMostProfitableStories](holly/readme.md)<p>This is a data anylsis case for film markets
 <br> <img src="hollyMap1.JPG" alt="drawing" width="20%"/>    <img src="hollyMap2.JPG" alt="drawing" width="20%"/>
 
-* [Employment data study](emsi/Readme.md)
+* [Employment data study](emsi/readme.md)
 
 
 
