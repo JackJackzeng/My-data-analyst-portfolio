@@ -12,24 +12,13 @@ I am confident in my data analytics skills and that my experience, attitude and 
 For details on each of the project please review the linked documents
 
 **Projects:** <br>
-* [HollywoodsMostProfitableStories](holly/readme.md)
+* [HollywoodsMostProfitableStories](holly/readme.md)<br> 
+
 * [AAA](A/Readme.md)
 
-## Project: AAA
-This project explores ....
 
-The project starts by enabling warnings; this is useful because it ....
-
-```
-import warnings
-warnings.filterwarnings("ignore")
-```
 
 If you are interested reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1qliHpWa2ZjJMls7ii0N8p5Ki8cs9neK-?usp=sharing)
 
 [Click here to return to the main page](../README.md)
 
-AAA
-![image](https://github.com/JackJackzeng/My-data-analyst-portfolio/assets/144682425/6e147748-d794-45ef-a132-d315170c7b86)
-BBB
-CCC
