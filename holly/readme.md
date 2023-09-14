@@ -9,7 +9,7 @@ View(df)
 
 ```
 then imported into the power bi to analyze it 
-![the rortten.tomatoes per genre](../holly/hollyMap1.JPG)
+![the rortten.tomatoes per genre](../holly/hollyMap1.JPG =20%)
 
 If you are interested reviewing and testing the project please use my Google CoLab notebook
 
