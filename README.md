@@ -21,5 +21,5 @@ For details on each of the project please review the linked documents
 
 If you are interested reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1qliHpWa2ZjJMls7ii0N8p5Ki8cs9neK-?usp=sharing)
 
-[Click here to return to the main page](../README.md)
+[Click here to return to the main page](README.md)
 
