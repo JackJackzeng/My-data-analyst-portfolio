@@ -12,7 +12,7 @@ I am confident in my data analytics skills and that my experience, attitude and 
 For details on each of the project please review the linked documents
 
 **Projects:** <br>
-* [HollywoodsMostProfitableStories](holly/readme.md)<br> this is a data anylsis case for film markets <img src="../holly/hollyMap1.JPG" alt="drawing" width="50%"/>
+* [HollywoodsMostProfitableStories](holly/readme.md)<br> this is a data anylsis case for film markets <img src="../holly/hollyMap1.JPG" alt="drawing" width="20%"/>
 
 * [AAA](A/Readme.md)
 
