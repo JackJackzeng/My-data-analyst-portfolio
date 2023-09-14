@@ -1,6 +1,6 @@
 ## My-data-analyst-portfolio
 I am a keen data analyst with experience of working on a number of different projects including "**HollywoodsMostProfitableStories**"
-AAA, BBB, CCC. As part of my work with these project I was able to collect, organise and explore the data in order to find and provide business insight; for example, in project AAA I was able to show ………….
+. As part of my work with these project I was able to collect, organize and explore the data in order to find and provide business insight; for example, in project **HollywoodsMostProfitableStories** I was able to show cleaning the data using **RStudio** and **Power BI** to visualize the data.
 
 I am practised in Python, R, SQL ….
 
