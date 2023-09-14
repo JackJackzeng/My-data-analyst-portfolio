@@ -1,5 +1,5 @@
 ## My-data-analyst-portfolio
-I am a keen data analyst with experience of working on a number of different projects including "HollywoodsMostProfitableStories.csv"![image](https://github.com/JackJackzeng/My-data-analyst-portfolio/assets/144682425/6e147748-d794-45ef-a132-d315170c7b86)
+I am a keen data analyst with experience of working on a number of different projects including "**HollywoodsMostProfitableStories**"
 AAA, BBB, CCC. As part of my work with these project I was able to collect, organise and explore the data in order to find and provide business insight; for example, in project AAA I was able to show ………….
 
 I am practised in Python, R, SQL ….
@@ -15,5 +15,6 @@ For details on each of the project please review the linked documents
 Project
 
 AAA
+![image](https://github.com/JackJackzeng/My-data-analyst-portfolio/assets/144682425/6e147748-d794-45ef-a132-d315170c7b86)
 BBB
 CCC
