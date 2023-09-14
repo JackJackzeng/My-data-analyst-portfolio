@@ -3,7 +3,7 @@ I am a keen data analyst with experience of working on a number of different pro
 
 I am practised in **Python, R, SQL,my SQL,Tableau, AZure,Power Bi**
 
-<img src="pythonlogo.png" alt="drawing" width="20%"/><img src="R.png" alt="drawing" width="20%"/><img src="SQL.png" alt="drawing" width="20%"/><img src="tableau.png" alt="drawing" width="20%"/><img src="power bi.png" alt="drawing" width="20%"/>
+<img src="pythonlogo.png" alt="drawing" width="20%"/><img src="R.png" alt="drawing" width="20%"/><img src="SQL.png" alt="drawing" width="20%"/><img src="tableau.png" alt="drawing" width="20%"/><img src="power bi.jpg" alt="drawing" width="20%"/>
 
 Python Logo R Logo
 
