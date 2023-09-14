@@ -13,7 +13,7 @@ For details on each of the project please review the linked documents
 
 **Projects:** <br>
 * [HollywoodsMostProfitableStories](holly/readme.md)<p>This is a data anylsis case for film markets
-* <br> <img src="hollyMap1.JPG" alt="drawing" width="20%"/><p\>
+ <br> <img src="hollyMap1.JPG" alt="drawing" width="20%"/>
 
 * [AAA](A/Readme.md)
 
