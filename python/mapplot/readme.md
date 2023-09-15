@@ -26,4 +26,4 @@ plt.show()
 
 If you are interested reviewing and testing the project please use my Google CoLab notebook
 
-[Click here to return to the main page](README.md)
+[Click here to return to the main page](../README.md)
