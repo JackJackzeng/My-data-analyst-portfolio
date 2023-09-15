@@ -16,10 +16,10 @@ For details on each of the project please review the linked documents.
 <br> <img src="hollyMap1.JPG" alt="drawing" width="20%"/>    <img src="hollyMap2.JPG" alt="drawing" width="20%"/>
 
 * [Employment data study](emsi/readme.md)<p>This is a data analysis case for Employment Data in UK
-  <br> <img src="emsi/employment.JPG" alt="drawing" width="40%"/>
+  <br> <img src="emsi/employment.JPG" alt="drawing" width="20%"/>
 
 * [Python.numpy/pandas/mapplot case](python/mapplot/readme.md)<p>This is a case study for practise the numpy/pandas/mapplot skills
-  <br> <img src="emsi/employment.JPG" alt="drawing" width="40%"/>    
+  <br> <img src="python/mapplot/mapplot1.JPG" alt="drawing" width="20%"/>    
 
 
 
