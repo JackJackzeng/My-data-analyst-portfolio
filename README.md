@@ -16,7 +16,11 @@ For details on each of the project please review the linked documents.
 <br> <img src="hollyMap1.JPG" alt="drawing" width="20%"/>    <img src="hollyMap2.JPG" alt="drawing" width="20%"/>
 
 * [Employment data study](emsi/readme.md)<p>This is a data analysis case for Employment Data in UK
+  <br> <img src="emsi/employment.JPG" alt="drawing" width="40%"/>
+
+* [Python.numpy/pandas/mapplot case](emsi/readme.md)<p>This is a data analysis case for Employment Data in UK
   <br> <img src="emsi/employment.JPG" alt="drawing" width="40%"/>    
+
 
 
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1qliHpWa2ZjJMls7ii0N8p5Ki8cs9neK-?usp=sharing)
