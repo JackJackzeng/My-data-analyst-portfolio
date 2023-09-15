@@ -24,4 +24,6 @@ plt.legend(handles=[L1,L2],labels=['test1','test2'],loc='best')
 plt.show()
 ```
 
-if you 
+If you are interested reviewing and testing the project please use my Google CoLab notebook
+
+[Click here to return to the main page](../README.md)
