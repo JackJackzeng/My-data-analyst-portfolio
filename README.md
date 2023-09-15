@@ -18,7 +18,7 @@ For details on each of the project please review the linked documents.
 * [Employment data study](emsi/readme.md)<p>This is a data analysis case for Employment Data in UK
   <br> <img src="emsi/employment.JPG" alt="drawing" width="40%"/>
 
-* [Python.numpy/pandas/mapplot case](emsi/readme.md)<p>This is a data analysis case for Employment Data in UK
+* [Python.numpy/pandas/mapplot case](python/mapplot/readme.md)<p>This is a case study for practise the numpy/pandas/mapplot skills
   <br> <img src="emsi/employment.JPG" alt="drawing" width="40%"/>    
 
 
