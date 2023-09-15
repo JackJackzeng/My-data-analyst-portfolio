@@ -1,7 +1,7 @@
 ## My-data-analyst-portfolio
-I am a keen data analyst with experience of working on a number of the different projects. As part of my work with these projects I was able to collect, organize and explore the data in order to find and provide business insight; For example, in Project**HollywoodsMostProfitableStories** I was able to collect,clean the data using **RStudio** and **Power BI** to visualize the data.
+I am a keen data analyst with experience of working on a number of the different projects. As part of my work with these projects I was able to collect, organize and explore the data in order to find and provide business insight, for example, in Project**HollywoodsMostProfitableStories** I was able to collect,clean the data using **RStudio** and **Power BI** to visualize the data.
 
-I am practising in **Python, R, SQL,my SQL,Tableau, AZure,Power Bi**
+I am proficient in **Python, R, SQL,my SQL,Tableau, AZure,Power Bi**
 
 <img src="pythonlogo.png" alt="drawing" width="20%"/><img src="R.png" alt="drawing" width="20%"/><img src="tableau.png" alt="drawing" width="20%"/><img src="power bi.jpg" alt="drawing" width="10%"/><img src="sqllogo.png" alt="drawing" width="10%"/>
 
@@ -9,7 +9,7 @@ I have experience in designing and creating dashboards in main industry sectors,
 
 I am confident in my data analytics skills and that my experience, attitude and communication skills would make me an ideal candidate for a data analyst role.
 
-For details on each of the project please review the linked documents
+For details on each of the project please review the linked documents.
 
 **Projects:** <br>
 * [HollywoodsMostProfitableStories](holly/readme.md)<p>This is a data analysis case for filming markets
