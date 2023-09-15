@@ -23,8 +23,6 @@ For details on each of the project please review the linked documents.
 
 
 
-If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1qliHpWa2ZjJMls7ii0N8p5Ki8cs9neK-?usp=sharing)
-
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
 * [Click here to return to the main page](README.md)
