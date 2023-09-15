@@ -9,8 +9,8 @@ View(df)
 
 ```
 then imported into the **power bi** to analyze it.<br>
-<img src="../holly/hollyMap1.JPG" alt="drawing" width="50%"/>
+<img src="../holly/hollyMap1.JPG" alt="drawing" width="20%"/>
 
-If you are interested reviewing and testing the project please use my Google CoLab notebook
+If you are interested reviewing and testing the project please use [my Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
 [Click here to return to the main page](../README.md)
