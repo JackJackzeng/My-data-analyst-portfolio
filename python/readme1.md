@@ -1,5 +1,4 @@
-hello world
-This is a case study using python /numpy/ pandas to visualzation the data.
+This is a case study using python /NumPy/ Pandas/Matplot tools to train the **titanic data** learning using different mathematic algorithms. The data source can be downlaod from the public website, such as [Titanic dataset](https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv)
 
 key code :
 ```
