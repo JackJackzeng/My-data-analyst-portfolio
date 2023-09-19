@@ -2,26 +2,51 @@ This is a case study using python /NumPy/ Pandas/Matplot tools to train the **ti
 
 key code :
 ```
-x=np.linspace(-3,3,100)
-y=2*x+1
-y1=x**2
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
-#X Y limitation
-plt.xlim((-1,2))
-plt.ylim((-2,3))
+data = pd.read_csv('titanic_train.csv')
+data.shape
 
-ticks=np.linspace(-2,2,11)
-print(ticks)
+data.describe()
 
-plt.xticks(ticks)
-plt.yticks([-1,0,1,2,3],['level1','level2','level3','level4','level5'])
+data['Age'] = data['Age'].fillna(data['Age'].median())
+data
 
-#Legend
-L1,= plt.plot(x,y,c='red',linewidth=1,linestyle="--")
-L2,= plt.plot(x,y1,c='blue',linewidth=5,linestyle="-")
-plt.legend(handles=[L1,L2],labels=['test1','test2'],loc='best')
+from sklearn.preprocessing import LabelEncoder
+LD = LabelEncoder()
+data['Sex'] = LD.fit_transform(data['Sex'])
 
-plt.show()
+print(data['Embarked'].unique())
+data['Embarked'] = data['Embarked'].fillna('S')
+
+LD = LabelEncoder()
+data['Embarked'] = LD.fit_transform(data['Embarked'])
+print(data['Embarked'].unique())
+
+x_columns = ['Pclass','Sex','Age','SibSp','Parch','Fare','Embarked'] 
+x_data = data[x_columns]
+y_data = data['Survived']
+
+x_data.head()
+
+from sklearn.preprocessing import StandardScaler
+SS = StandardScaler()
+x_data = SS.fit_transform(x_data)
+x_data
+
+from sklearn import tree
+dtree = tree.DecisionTreeClassifier(max_depth=5,min_samples_split=5,min_samples_leaf=5)
+model = dtree.fit(x_data,y_data)
+print(model.score(x_data,y_data))
+
+from sklearn.ensemble import RandomForestClassifier
+RF1 = RandomForestClassifier(random_state=10,min_samples_split=5,min_samples_leaf=5,n_estimators=80)
+model = RF1.fit(x_data,y_data)
+
+print(model.score(x_data,y_data))
+
 ```
 
 If you are interested reviewing and testing the project please use my [**Google CoLab notebook**](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
