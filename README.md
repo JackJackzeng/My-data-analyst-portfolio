@@ -22,7 +22,7 @@ For details on each of the project please review the linked documents.
 * [Python.numpy/pandas/mapplot case](python/mapplot/readme.md)<p>This is a case study for practise the numpy/pandas/mapplot skills
   <br> <img src="python/mapplot/mapplot1.JPG" alt="drawing" width="20%"/>    
 
-* [Python.ML.TITANIC_case](python/readme1.md)<p>This is a case study to train the Titanic surviving data for Machine learning(ML)
+* [Python.ML.TITANIC_case](python/readme2.md)<p>This is a facture engingering project used into facture monitor processing. The data collected by myself using 24 geophones in a field for 15 days. There are huge database and upto 19 factors affecting the result. 
   <br> <img src="python/titanic1.JPG" alt="drawing" width="20%"/>    
 
 * [Python.Kmean.Subsurface facture classification](python/readme1.md)<p>This is a case study to train the Titanic surviving data for Machine learning(ML)
