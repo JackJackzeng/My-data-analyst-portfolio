@@ -42,7 +42,7 @@ for i in range(K):
     name = new_data[new_data['Labels']==i].iloc[:,0] # write a classification type into a data 
     print(name.values)
 ```
-
+  <br> <img src="python/fracture1.JPG" alt="drawing" width="30%"/>     <br> <img src="python/fracture1.JPG" alt="drawing" width="30%"/>   
 If you are interested reviewing and studying this project please contact with me for my data permition, and
 use my [**Google CoLab notebook**](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
