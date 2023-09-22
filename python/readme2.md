@@ -39,7 +39,7 @@ labels=model.labels_
 #print out the result
 for i in range(K):
     print('frcture distribution cluster:',i)
-    name = new_data[new_data['Labels']==i].iloc[:,0] #把同类的写道一个数组
+    name = new_data[new_data['Labels']==i].iloc[:,0] # write a classification type into a data 
     print(name.values)
 ```
 
