@@ -50,7 +50,8 @@ for clf in classifiers:
     log.append([name,acc*100])
 
 ```
+If you are interested reviewing and studying this project please contact with me for my data permition, and
+use my [**Google CoLab notebook**](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
-If you are interested reviewing and studying this project please contact with me for my data permition, and use my Google CoLab notebook
+[Click here to return to the main page](../README.md)
 
-Click here to return to the main page
