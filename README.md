@@ -28,12 +28,12 @@ For details on each of the project please review the linked documents.
 * [Python.Kmean.Subsurface facture classification](python/readme2.md)<p>This is a facture engingering project used into facture monitor processing. The data collected by myself using 24 geophones in a field for 15 days. There are huge database and upto 19 factors affecting the result. I use the **KMean ML method** to solve this data processing problem. The more detail introducation can be found in linked project.
   <br> <img src="python/fracture1.JPG" alt="drawing" width="30%"/>    <br> <img src="python/fracture2.JPG" alt="drawing" width="30%"/>
 
-* [Python.ML.(7 models) predict cancer classifcation](python/readme3.md)<p>This is a cancer case study to classify the factors which result into the cancer prediction. The 7 methods used to build model and result show 92-97% accurcy:The models include
-* **KNeighborsClassifier,**
-* **DecisionTreeClassifier,**
-* **MLPClassifier,**
-* **RandomForestClassifier,**
-* **AdaBoostClassifier and BaggingClassifier** to solve this case study.
+* [Python.ML.(7 models) predict cancer classifcation](python/readme3.md)<p>This is a cancer case study to classify factors which result into cancer prediction models. The 7 methods used to build model and results show 92-97% accurate:The models include
+* **K_Neighbors_Classifier,**
+* **Decision_Tree_Classifier,**
+* **MLP_Classifier,**
+* **Random_Forest_Classifier,**
+* **AdaBoost_Classifier and Bagging_Classifier** to solve this case study.
   The more detail introducation can be found in linked project.
   <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>   
   
