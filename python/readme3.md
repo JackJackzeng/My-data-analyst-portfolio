@@ -3,7 +3,7 @@ This is a very challenge real project in engineer survey. The aim is to find a p
 The key steps are cleaning data, reducing dimensions,normalize different factors,ML learning modell build up,to study K=? in KMean method, and classified code refilled into the factures
 
 Key code
-
+'''
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -41,7 +41,7 @@ for i in range(K):
     print('frcture distribution cluster:',i)
     name = new_data[new_data['Labels']==i].iloc[:,0] # write a classification type into a data 
     print(name.values)
-
+'''
 drawing
 drawing
 The above result of K&loss is very help to find the best parameters K, the classification number of natural fracture when the hydro-fracture engineering work which generate the fractures
