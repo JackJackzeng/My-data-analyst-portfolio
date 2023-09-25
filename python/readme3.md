@@ -3,11 +3,11 @@ This is a Lab / hospital data to be used to **train(ML) the cancer predict model
 <br>
 Key code:
 
-`
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-`
+```
 
 If you are interested reviewing and studying this project please contact with me for my data permition, and use my Google CoLab notebook
 
