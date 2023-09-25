@@ -1,6 +1,5 @@
-This is a very challenge real project in engineer survey. The aim is to find a processing method to anylze fracture monitor data which is 19 dimensional data and continuing recored during 15 days.
-
-The key steps are cleaning data, reducing dimensions,normalize different factors,ML learning modell build up,to study K=? in KMean method, and classified code refilled into the factures
+This is a Lab / hospital data to be used to **train(ML) the cancer predict models**
+The database is a big data include 32 colums (factors) to be consider, so key studysteps are cleaning data, reducing dimensions,normalize different factors,different (ML) learning models building up,classified cancer group and predict it in new data.
 
 Key code
 '''
@@ -9,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-
+'''
 # normalize data
 SD = StandardScaler()
 new_data_SD = SD.fit_transform(new_data)
