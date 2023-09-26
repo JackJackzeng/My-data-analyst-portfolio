@@ -38,7 +38,7 @@ For details on each of the project please review the linked documents.
   <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
 
 * [Country_GDP_data study](GDP_Country/readme.md)<p>This is a data analysis case for GDP_countries around world in 2020
-  <br> <img src="GDP_Country/GDP1.JPG" alt="drawing" width="40%"/>
+  <br> <img src="GDP_Country/GDP1.JPG" alt="drawing" width="50%"/>
   
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
