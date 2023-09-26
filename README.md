@@ -35,7 +35,10 @@ For details on each of the project please review the linked documents.
 * **Random_Forest_Classifier,**
 * **AdaBoost_Classifier and Bagging_Classifier** to solve this case study.
   The more detail introducation can be found in linked project.
-  <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>   
+  <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
+
+  * [country_GDP_data study](emsi/readme.md)<p>This is a data analysis case for Employment Data in UK
+  <br> <img src="emsi/employment.JPG" alt="drawing" width="20%"/>
   
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
