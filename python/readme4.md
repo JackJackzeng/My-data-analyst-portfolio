@@ -1,5 +1,6 @@
 This is a PCA reducing demensional and modelling case with using published data in **Numpy database**
-* <p>The database is a big data include 32 colums (factors) to be consider, so key studysteps are cleaning data, reducing dimensions,normalize different factors,different (ML) learning models building up,classified cancer group and predict it in new data.
+
+* <p>The database is a big data include 64 colums (factors) to be consider, so key studysteps are cleaning data, reducing dimensions,different (ML) learning models building up,classified groups into 3 dimensional.
 <br>
 Key code:
 
