@@ -37,6 +37,15 @@ For details on each of the project please review the linked documents.
   The more detail introducation can be found in linked project.
   <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
 
+* [Python.ML.(7 models) predict cancer classifcation](python/readme3.md)<p>This is a cancer case study to classify factors which result into cancer prediction models. The 7 methods used to build model and results show 92-97% accurate:The models include
+* **K_Neighbors_Classifier,**
+* **Decision_Tree_Classifier,**
+* **MLP_Classifier,**
+* **Random_Forest_Classifier,**
+* **AdaBoost_Classifier and Bagging_Classifier** to solve this case study.
+  The more detail introducation can be found in linked project.
+  <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
+
 * [Country_GDP_data study](GDP_Country/readme.md)<p>This is a data analysis case for GDP_countries around world in 2020
   <br> <img src="GDP_Country/GDP1.JPG" alt="drawing" width="50%"/>
   
