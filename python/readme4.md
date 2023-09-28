@@ -5,51 +5,57 @@ This is a PCA reducing demensional and modelling case with using published data 
 Key code:
 
 ```
-import pandas as pd
+from sklearn.datasets import load_digits
 import numpy as np
+import pandas as pd
+from sklearn.neural_network import MLPClassifier
 import matplotlib.pyplot as plt
 
-#normalize the data
-from sklearn.preprocessing import StandardScaler
+digits = load_digits()
+x_data = digits.data
+y_data = digits.target
 
-SS = StandardScaler()
-x_data = SS.fit_transform(x_data)
-x_data.shape
+from sklearn.model_selection import train_test_split
+x_train,x_test,y_train,y_test = train_test_split(x_data,y_data,test_size=0.3)
 
-#7 models
-from sklearn.metrics import classification_report,accuracy_score
-from sklearn.neural_network import MLPClassifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LinearRegression
-from sklearn.ensemble import RandomForestClassifier,AdaBoostClassifier,BaggingClassifier
+nml = MLPClassifier(hidden_layer_sizes=(20,40),max_iter=500)
+model = nml.fit(x_train,y_train)
 
-classifiers = [
-    KNeighborsClassifier(3),
-    DecisionTreeClassifier(max_depth=9,min_samples_split=5,min_samples_leaf=3),
-    #LinearRegression(),
-    MLPClassifier(hidden_layer_sizes=(20,50),max_iter=10000),
-    RandomForestClassifier(max_depth=9,min_samples_leaf=3),
-    AdaBoostClassifier(),
-    BaggingClassifier(),
-              ]
+predictions = model.predict(x_test)
+from sklearn.metrics import classification_report,confusion_matrix
+print(classification_report(predictions,y_test))
+print(confusion_matrix(predictions,y_test))
 
-log =[]
+def zeromean(dataMat):
+    meanVEL = np.mean(dataMat,axis=0)
+    newdata = dataMat-meanVEL
+    return newdata, meanVEL
 
-for clf in classifiers:
-    clf.fit(x_train,y_train)
-    name = clf.__class__.__name__
-    
-    print('*'*30)
-    print(name)
-    
-    print("--------------result---------------")
-    predictions = clf.predict(x_test)
-    acc = accuracy_score(y_test,predictions)
-    
-    print(acc)
-    log.append([name,acc*100])
+def pca(dataMat,top):
+    newdata,meanVEL = zeromean(dataMat)
+    covMat = np.cov(newdata,rowvar=0)
+    eigVals,eigVects = np.linalg.eig(np.mat(covMat))
+    eigValsIdicates = np.argsort(eigVals)
+    n_eigValsIdicates = eigValsIdicates[-1:-(top+1):-1]
+    n_eigVect = eigVects[:,n_eigValsIdicates]
+    lownewdata = newdata*n_eigVect
+    recondata = (lownewdata*n_eigVect.T)+meanVEL
+    return lownewdata,recondata
 
+lownewdata, recondata = pca(x_data,2)
+x = np.array(lownewdata)[:,0]
+y = np.array(lownewdata)[:,1]
+plt.scatter(x,y,c=y_data)
+plt.show()
+
+from mpl_toolkits.mplot3d import Axes3D
+x = np.array(lownewdata)[:,0]
+y = np.array(lownewdata)[:,1]
+z = np.array(lownewdata)[:,2]
+
+ax = plt.figure().add_subplot(111,projection='3d')
+ax.scatter(x,y,z,c=y_data,s=2)
+plt.show()
 ```
 
  <br> <img src="..//python/cancer1.JPG" alt="drawing" width="30%"/>     <br> <img src="..//python/cancer2.JPG" alt="drawing" width="30%"/>   
