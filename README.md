@@ -37,12 +37,11 @@ For details on each of the project please review the linked documents.
   The more detail introducation can be found in linked project.
   <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
 
-* [Python.ML.(7 models) predict cancer classifcation](python/readme3.md)<p>This is a cancer case study to classify factors which result into cancer prediction models. The 7 methods used to build model and results show 92-97% accurate:The models include
-* **K_Neighbors_Classifier,**
+* [Python.ML.reduce deminsonal and classify it in 3D data ](python/readme4.md)<p>This is a PCA case study to reduce data dimensional or factors which result into data modelling, and classified into 3D cube.
+* **sklearn.neural_network.MLPClassifier**
 * **Decision_Tree_Classifier,**
-* **MLP_Classifier,**
-* **Random_Forest_Classifier,**
-* **AdaBoost_Classifier and Bagging_Classifier** to solve this case study.
+* **Mplot3d**
+  to solve this case study.
   The more detail introducation can be found in linked project.
   <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
 
