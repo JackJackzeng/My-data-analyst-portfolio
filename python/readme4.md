@@ -57,8 +57,9 @@ ax = plt.figure().add_subplot(111,projection='3d')
 ax.scatter(x,y,z,c=y_data,s=2)
 plt.show()
 ```
+The result is very good and the big data can be seperated into different classified group in 3D scatter map.
 
- <br> <img src="..//python/cancer1.JPG" alt="drawing" width="30%"/>     <br> <img src="..//python/cancer2.JPG" alt="drawing" width="30%"/>   
+ <br> <img src="..//python/PCA1.JPG" alt="drawing" width="30%"/>     <br> <img src="..//python/PCA2.JPG" alt="drawing" width="30%"/>   
  
 If you are interested reviewing and studying this project please contact with me for my data permition, and
 use my [**Google CoLab notebook**](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
