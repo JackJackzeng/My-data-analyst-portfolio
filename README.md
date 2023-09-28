@@ -40,13 +40,13 @@ For details on each of the project please review the linked documents.
 * [Country_GDP_data study](GDP_Country/readme.md)<p>This is a data analysis case for GDP_countries around world in 2020
   <br> <img src="GDP_Country/GDP1.JPG" alt="drawing" width="50%"/>
 
-  * [Python.ML.reduce deminsonal and classify it in 3D data ](python/readme4.md)<p>This is a PCA case study to reduce data dimensional or factors which result into data modelling, and classified into 3D cube.
+* [Python.ML.reduce deminsonal and classify it in 3D data ](python/readme4.md)<p>This is a PCA case study to reduce data dimensional or factors which result into data modelling, and classified into 3D cube.
 * **sklearn.neural_network.MLPClassifier**
 * **Decision_Tree_Classifier,**
 * **Mplot3d**
   to solve this case study.
   The more detail introducation can be found in linked project.
-  <br> <img src="python/cancer1.JPG" alt="drawing" width="30%"/>
+  <br> <img src="python/PCA1.JPG" alt="drawing" width="30%"/><img src="python/PCA2.JPG" alt="drawing" width="30%"/>
 
   
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
