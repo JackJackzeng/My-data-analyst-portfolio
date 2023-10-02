@@ -54,7 +54,7 @@ For details on each of the project please review the linked documents.
 * **Mplot3d**
   to solve this case study.
   The more detail introducation can be found in linked project.
-  <br> <img src="python/PCA1.JPG" alt="drawing" width="40%"/><img src="python/PCA2.JPG" alt="drawing" width="30%"/>
+  <br> <img src="python/Apple1.JPG" alt="drawing" width="40%"/>
   
 
   
