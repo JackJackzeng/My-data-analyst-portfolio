@@ -48,6 +48,15 @@ For details on each of the project please review the linked documents.
   The more detail introducation can be found in linked project.
   <br> <img src="python/PCA1.JPG" alt="drawing" width="40%"/><img src="python/PCA2.JPG" alt="drawing" width="30%"/>
 
+* [Python.ML.KNN classified fluits](python/readme5.md)<p>This is a case study to training data and classify fluits into different group.
+* **KNeighborsClassifier**
+* **K-NN Varying the number of neighbors**
+* **Mplot3d**
+  to solve this case study.
+  The more detail introducation can be found in linked project.
+  <br> <img src="python/PCA1.JPG" alt="drawing" width="40%"/><img src="python/PCA2.JPG" alt="drawing" width="30%"/>
+  
+
   
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
 
