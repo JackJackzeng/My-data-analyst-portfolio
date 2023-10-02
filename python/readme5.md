@@ -3,7 +3,7 @@ This is a fluit classiy case to be used into farm (AI intellegent to classify th
 * **Mplot3d**
   to solve this problem.
 
-* <p>The database is a big data include 64 colums (factors) to be consider, so key studysteps are cleaning data, reducing dimensions,different (ML) learning models building up,classified groups into 3 dimensional.
+* The database is a published data include 5 colums (factors) to be consider, so key steps are cleaning data, (ML) learning models building up,justify the proper **K** value and classified groups.
 <br>
 Key code:
 
