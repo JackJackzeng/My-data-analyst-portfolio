@@ -1,4 +1,7 @@
-This is a PCA reducing demensional and modelling case with using published data in **Numpy database**
+This is a fluit classiy case to be used into farm (AI intellegent to classify the fluits). I studied and modelling the training data,built a **KNN model** and classified it using **K_Neighbors_Classifier** method.
+* **K-NN Varying the number of neighbors** to justify the right **K**.
+* **Mplot3d**
+  to solve this problem.
 
 * <p>The database is a big data include 64 colums (factors) to be consider, so key studysteps are cleaning data, reducing dimensions,different (ML) learning models building up,classified groups into 3 dimensional.
 <br>
