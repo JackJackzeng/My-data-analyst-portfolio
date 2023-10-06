@@ -60,7 +60,7 @@ For details on each of the project please review the linked documents.
 * **Linear_Classifier**
 * to solve this case study.
   The more detail introducation can be found in linked project.
-  <br> <img src="..//python/Linear1.JPG" alt="drawing" width="40%"/>
+  <br> <img src="python/linear1.JPG" alt="drawing" width="40%"/>
   
   
 If you are interested in reviewing and testing the project please use my [Google CoLab notebook](https://colab.research.google.com/drive/1FhjdinLX9dejz4spkXrhXDHuENXQM3Fq#updateTitle=true&folderId=1Q9EqShSEW9F3ULWA9Z6sSSbFlLBSQTmO)
