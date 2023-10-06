@@ -1,4 +1,4 @@
-This is a fluit classiy case to be used into farm (AI intellegent to classify the fluits). I studied and modelling the training data,built a **KNN model** and classified it using **K_Neighbors_Classifier** method.
+This is a fruit classiy case to be used into farm (AI intellegent to classify the fruits). I studied and modelling the training data,built a **KNN model** and classified it using **K_Neighbors_Classifier** method.
 * **K-NN Varying the number of neighbors** to justify the right **K**.
 * **Mplot3d**
   to solve this problem.
